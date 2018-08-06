@@ -11,6 +11,7 @@
 |5.[Catboost](http://learningsys.org/nips17/assets/papers/paper_11.pdf)| <ul><li>- [x]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Boosting|
 |6.[DARTS](https://arxiv.org/abs/1806.09055)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Deep learning|
 |7. [DART](https://arxiv.org/pdf/1505.01866.pdf)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| DTs|
+|8.[Smallify](https://arxiv.org/pdf/1806.03723.pdf)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Deep learning|
 
 
 
