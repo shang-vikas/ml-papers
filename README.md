@@ -10,7 +10,7 @@
 |4.[LightGBM](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)| <ul><li>- [x]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Boosting
 |5.[Catboost](http://learningsys.org/nips17/assets/papers/paper_11.pdf)| <ul><li>- [x]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Boosting|
 |6.[DARTS](https://arxiv.org/abs/1806.09055)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Deep learning|
-|7. [DART](https://arxiv.org/pdf/1505.01866.pdf)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| DTs|
+|7. [DART](https://arxiv.org/pdf/1505.01866.pdf)|<ul><li>- [x]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| DTs|
 |8.[Smallify](https://arxiv.org/pdf/1806.03723.pdf)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Deep learning|
 |9.[Knowledge Distill(Teacher-student)](https://arxiv.org/pdf/1503.02531v1.pdf)|<ul><li>- [ ]  Read</li><li>- [ ] Summary/Blog/notes</li></ul>| Deep learning|
 
